@@ -9,3 +9,5 @@ Anton Gorodezki ist eine fiktive Figur, deren Abenteuer als "lichter Anderer" in
 * Lebt zusammen mit Swetlana Nasarowa
 * Gemeinsames Kind: Nadja
 
+<img src="http://www.playerweb.de/material/filme/waechter-der-nacht-0_400.jpg"/>
+
