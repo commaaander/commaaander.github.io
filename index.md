@@ -11,4 +11,3 @@ Anton Gorodezki ist eine fiktive Figur, deren Abenteuer als "lichter Anderer" in
 
 ## Zitat
 > Ob es mir gelingen würde, ihr beizubringen, dass man einfache Lösungen und kurze Wege meiden sollte?
-
