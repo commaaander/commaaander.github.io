@@ -9,3 +9,5 @@ Anton Gorodezki ist eine fiktive Figur, deren Abenteuer als "lichter Anderer" in
 * Lebt zusammen mit Swetlana Nasarowa
 * Gemeinsames Kind: Nadja
 
+## Zitat
+> Ob es mir gelingen würde, ihr beizubringen, dass man einfache Lösungen und kurze Wege meiden sollte?
